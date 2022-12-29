@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hasna Paramesti
+👋 Hi, I’m Hasna Paramesti
 - 👀 I’m interested in Back-End Engineer
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
 
