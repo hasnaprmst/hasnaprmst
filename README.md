@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Hasna Paramesti
-- 👀 I’m interested in UI/UX Designer
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning at Diponegoro University, majoring in Informatics
 - If you interested to know me more, follow me in [Linkedin](https://www.linkedin.com/in/hasna-paramesti/)
 
